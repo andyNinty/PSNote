@@ -340,7 +340,9 @@ Ps一些样式 笔刷 等下载 52Photoshop  68Photoshop
 
 添加锚点工具 路径选择工具 直接选择工具 转换点工具
 
-注意![img](file:////tmp/wps-andy/ksohtml/wps6pfbmu.jpg)分别是形状 纯路径 填充像素
+注意
+
+![图片1](pic/图片1.png)分别是形状 纯路径 填充像素
 
 可以先选区 再加载为路径
 
@@ -396,7 +398,9 @@ Ctrl+t 然后alt加shift可以向中间变形
 
 或者仿制图章 直接涂掉 注意对合度
 
-透视感![img](file:////tmp/wps-andy/ksohtml/wpsTMOt8D.jpg)高空
+透视感![图片2](pic/图片2.png)
+
+高空
 
 > ps83像素化滤镜.像素化.马赛克.点画法.制作油画
 
@@ -440,7 +444,7 @@ Ctrl+t 然后alt加shift可以向中间变形
 
 `标准模糊`：
 
-`高斯模糊` 配合历史记录画笔工具使用![img](file:////tmp/wps-andy/ksohtml/wpska1YUN.jpg)
+`高斯模糊` 配合历史记录画笔工具使用![图片3](pic/图片3.png)
 
 可以转化为智能对象再来做，模糊 配合径向渐变或者其他渐变方式 使用 这样移动蒙版就可以调焦距 一般这样做 不会破坏原图
 
